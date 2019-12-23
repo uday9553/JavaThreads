@@ -41,7 +41,7 @@ class ForkJoinExample extends RecursiveTask<Integer> {
 
 }
 
-class MainTestingClass {
+class ForkJoinProblemExample {
 	public static void main(String[] args) {
 		int arr[] = { 1, 2, 3, 7, 8, 9, 6, 2, 5 };
 		int searchElement = 2;
